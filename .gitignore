@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+installer/screenshots/
+installer/*.log
+
+dist/V1.0-test.*/
