@@ -1,0 +1,59 @@
+[Version]
+signature="$WINDOWS NT$"
+Cursor11 V2.0.0
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Ani
+AddReg = Scheme.Reg, Wreg
+
+[DestinationDirs]
+Scheme.Cur = 10,"Cursors\Cursor11_V2.0.0"
+Scheme.Ani = 10,"Cursors\Cursor11_V2.0.0"
+
+[Scheme.Cur]
+"alternate.cur"
+"beam.cur"
+"dgn1.cur"
+"dgn2.cur"
+"handwriting.cur"
+"help.cur"
+"horz.cur"
+"link.cur"
+"move.cur"
+"person.cur"
+"pin.cur"
+"pointer.cur"
+"precision.cur"
+"unavailable.cur"
+"vert.cur"
+
+[Scheme.Ani]
+"working.ani"
+"busy.ani"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\Cursors\Cursor11_V2.0.0\pointer.cur,%10%\Cursors\Cursor11_V2.0.0\help.cur,%10%\Cursors\Cursor11_V2.0.0\working.ani,%10%\Cursors\Cursor11_V2.0.0\busy.ani,%10%\Cursors\Cursor11_V2.0.0\precision.cur,%10%\Cursors\Cursor11_V2.0.0\beam.cur,%10%\Cursors\Cursor11_V2.0.0\handwriting.cur,%10%\Cursors\Cursor11_V2.0.0\unavailable.cur,%10%\Cursors\Cursor11_V2.0.0\vert.cur,%10%\Cursors\Cursor11_V2.0.0\horz.cur,%10%\Cursors\Cursor11_V2.0.0\dgn1.cur,%10%\Cursors\Cursor11_V2.0.0\dgn2.cur,%10%\Cursors\Cursor11_V2.0.0\move.cur,%10%\Cursors\Cursor11_V2.0.0\alternate.cur,%10%\Cursors\Cursor11_V2.0.0\link.cur,%10%\Cursors\Cursor11_V2.0.0\person.cur,%10%\Cursors\Cursor11_V2.0.0\pin.cur"
+
+[Wreg]
+HKCU,"Control Panel\Cursors",,0x00020000,"%SCHEME_NAME%"
+HKCU,"Control Panel\Cursors",AppStarting,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\working.ani"
+HKCU,"Control Panel\Cursors",Arrow,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\pointer.cur"
+HKCU,"Control Panel\Cursors",crosshair,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\precision.cur"
+HKCU,"Control Panel\Cursors",precisionhair,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\precision.cur"
+HKCU,"Control Panel\Cursors",Hand,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\link.cur"
+HKCU,"Control Panel\Cursors",Help,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\help.cur"
+HKCU,"Control Panel\Cursors",IBeam,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\beam.cur"
+HKCU,"Control Panel\Cursors",No,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\unavailable.cur"
+HKCU,"Control Panel\Cursors",NWPen,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\handwriting.cur"
+HKCU,"Control Panel\Cursors",SizeAll,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\move.cur"
+HKCU,"Control Panel\Cursors",SizeNESW,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\dgn2.cur"
+HKCU,"Control Panel\Cursors",SizeNS,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\vert.cur"
+HKCU,"Control Panel\Cursors",SizeNWSE,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\dgn1.cur"
+HKCU,"Control Panel\Cursors",SizeWE,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\horz.cur"
+HKCU,"Control Panel\Cursors",UpArrow,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\alternate.cur"
+HKCU,"Control Panel\Cursors",Wait,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\busy.ani"
+HKCU,"Control Panel\Cursors",Person,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\person.cur"
+HKCU,"Control Panel\Cursors",Pin,0x00020000,"%10%\Cursors\Cursor11_V2.0.0\pin.cur"
+
+[Strings]
+SCHEME_NAME = "Cursor11 V2.0.0"
