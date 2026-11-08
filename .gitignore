@@ -4,4 +4,4 @@ __pycache__/
 installer/screenshots/
 installer/*.log
 
-dist/V1.0-test.*/
+dist/*-test.*/

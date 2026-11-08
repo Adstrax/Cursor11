@@ -1,0 +1,34 @@
+﻿Cursor11 V3.0.0
+
+解压后直接双击根目录里的“安装 Cursor11.exe”。
+
+安装器提供两个操作：
+- 安装 Cursor11：安装白色主体、黑色描边的亮色套装。
+- 恢复默认：恢复 Windows Aero 默认光标和方案名称。
+
+本版本是只保留亮色版的简体中文正式发布版。
+
+设计确认：
+- Beam 选择 B 标准端帽，主体对称缩短约 6%。
+- 非方向光标保持现有轮廓。
+- 方向键图形进一步放大，双三角形间隔保持约 8px。
+- 亮色为白色主体与黑色描边。
+
+修改范围：
+- horz、vert、dgn1、dgn2：调整双三角形间隔。
+- move、alternate、beam、precision：沿用已确认图形，其中 beam 使用缩短 6% 的 B 端帽。
+- pointer、help、handwriting、unavailable、link、person、pin：保持现有轮廓。
+- working、busy：保持现有动画。
+
+推荐安装：
+双击根目录的“安装 Cursor11.exe”。
+
+安装后提醒：
+1. 已打开的浏览器、编辑器或游戏可能缓存旧光标，请关闭后重新打开。
+2. 如果系统级图标仍未变化，请注销并重新登录 Windows。
+3. 可在“设置 > 辅助功能 > 鼠标指针和触控”确认方案。
+
+原始概念设计：Jepri Creations
+https://www.deviantart.com/jepricreations
+
+正式版已完成安装、恢复默认和重新安装验证。

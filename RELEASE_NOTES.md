@@ -1,4 +1,4 @@
-# Cursor11 V2.0.0
+# Cursor11 V3.0.0
 
 Cursor11 is a Windows 11 rounded cursor set with English and Simplified Chinese
 installers. This release contains the light theme only.
@@ -13,25 +13,26 @@ installers. This release contains the light theme only.
 - White glyphs with black outlines and shadows for the light theme.
 - Minimal light preview artwork without the previous dark outer frame.
 - One directly runnable `.exe` installer in each extracted package.
+- Flat archive layout: after extraction, the installer is at the first level.
 - Install Cursor11 and Restore Windows Default actions in the installer.
 
 ## Downloads
 
-- `Cursor11-V2.0.0-en-US-Windows.zip`
-- `Cursor11-V2.0.0-zh-CN-Windows.zip`
+- `Cursor11-V3.0.0-en-US-Windows.zip`
+- `Cursor11-V3.0.0-zh-CN-Windows.zip`
 
 ## SHA256
 
 ```text
-77F3FCB304639C0F3AAE0469868A54F15A8368541020CEC302ABA3F44AB8399D  Cursor11-V2.0.0-en-US-Windows.zip
-055935B17AFA5B594AC06347B1DBA90B4EE4C95DF797889883B730646967DBA7  Cursor11-V2.0.0-zh-CN-Windows.zip
+2D5AF804093BFEE05F1ED12596C3DBD10CC40AC771088C0F69FE56F7C2891C51  Cursor11-V3.0.0-en-US-Windows.zip
+F52E411583E8078A529C3E3961180E5CF9300FC453993E0C4119DFC96C502BC6  Cursor11-V3.0.0-zh-CN-Windows.zip
 ```
 
 ## Installation
 
 1. Download the ZIP for your language.
 2. Extract the entire ZIP.
-3. Open the extracted folder and run `Install Cursor11.exe` or
+3. The extracted ZIP folder directly contains `Install Cursor11.exe` or
    `安装 Cursor11.exe`.
 4. Choose Install Cursor11 or Restore Defaults.
 

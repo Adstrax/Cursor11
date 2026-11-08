@@ -2,7 +2,7 @@
 
 Windows 11 概念光标套装的 Cursor11 亮色设计版本。
 
-## V2.0.0 设计
+## V3.0.0 设计
 
 - 17 种 Windows 亮色光标角色。
 - `horz`、`vert`、`dgn1`、`dgn2` 使用瘦长等腰圆角三角形。
@@ -14,8 +14,8 @@ Windows 11 概念光标套装的 Cursor11 亮色设计版本。
 
 ## 发布包
 
-- 英文版：`Cursor11-V2.0.0-en-US-Windows.zip`
-- 简体中文版：`Cursor11-V2.0.0-zh-CN-Windows.zip`
+- 英文版：`Cursor11-V3.0.0-en-US-Windows.zip`
+- 简体中文版：`Cursor11-V3.0.0-zh-CN-Windows.zip`
 
 两版共用同一套光标。英文包根目录为 `Install Cursor11.exe`，简体中文包根目录为
 `安装 Cursor11.exe`；脚本和光标资源均放在 `_internal`。
@@ -32,4 +32,4 @@ https://www.deviantart.com/jepricreations
 
 ## 发布状态
 
-正式发布版 `V2.0.0`。英文版和简体中文版已完成真机验证。
+正式发布版 `V3.0.0`。英文版和简体中文版已完成真机验证。

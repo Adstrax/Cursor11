@@ -1,0 +1,32 @@
+{
+  "project": "Cursor11",
+  "version": "V3.0.0",
+  "locale": "en-US",
+  "test_build": false,
+  "beam": "B standard cap (15px), stem shortened 6%",
+  "directional_gap_96px": 8,
+  "themes": [
+    "light"
+  ],
+  "roles": [
+    "pointer",
+    "help",
+    "working",
+    "busy",
+    "precision",
+    "beam",
+    "handwriting",
+    "unavailable",
+    "vert",
+    "horz",
+    "dgn1",
+    "dgn2",
+    "move",
+    "alternate",
+    "link",
+    "person",
+    "pin"
+  ],
+  "archive": "Cursor11-V3.0.0-en-US-Windows.zip",
+  "restore_windows_default": true
+}
